@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(208, 253, 252);
+}
+img {
+    float: right;
+    border-style: dotted;
+    border-color:rgb(126, 117, 239);
+}
+
+.heading-bluecolor{
+    color: rgb(58, 21, 170);
+}
+
+#orange-color {
+    color: chocolate;
+}
+
+p[draggable]{
+    color: bisque;
+}
+/* 
+Select all selector 
+
+*{
+    color: red;
+}  
+*/
